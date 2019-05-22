@@ -99,3 +99,26 @@ background-color: white;
 #img td{
   padding: 0px;
 }
+
+/*last section*/
+#last{
+    display: flex;
+    justify-content: space-between;
+}
+.lastimg{
+    margin: 2%;
+    width: 30%;
+    height: 30%;
+    
+}
+.lastsec{
+    display: flex;
+    flex-direction: row;
+}
+
+/*lastdiv*/
+#lastdiv{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 5%;
+}
